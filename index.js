@@ -64,7 +64,8 @@
 //Take it up from 29:20
 //Create a .env file and place your connection string there ()
 
-//
+// KEY COMMAND IF YOU INITIATED REPO WITH A README:
+//      git pull https://github.com/19992018/mongo-crud main --rebase
 
 require("dotenv").config();
 
