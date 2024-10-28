@@ -1,5 +1,5 @@
 # mongo-crud
-Solidifying Mongo-DB knowledge by building an app Create, Read, Update and Delete
+Solidifying Mongo-DB knowledge by building an app to Create, Read, Update and Delete (CRUD)
 
 ## Notes on how I maneouvered
 open folder  
